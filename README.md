@@ -43,7 +43,7 @@ Installation Examples:
 	8. In "ARM" folder, Results of  Figure 4 in submitted paper and Table 3 in SM are given.
 	9. All execution time are recorded in microseconds. but reported in seconds(Sec.) in the main paper. In SM, execution time is also shown in hh:mm:ss in Table 1.
 	10. For memory, we have noted "Maximum resident set size" wil be shown in the terminal screen. 
-	11. Null values in csv or excel files is indicates aproaches could be executed due to longer time or error signals on particular datasets.
+	11. Null values in csv or excel files indicate aproaches could not be executed due to longer time or error signals on particular datasets.
 	
 ## Datasets
 	* We have used eight different datasets i.e., alarm, barley, child, hailfinder, mildew, pathfinder, win95pts for random test and BNSL
